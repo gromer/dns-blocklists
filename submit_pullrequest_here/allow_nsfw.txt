@@ -1,4 +1,5 @@
 # Domains to be removed from the nsfw list.
+*.3qsdn.com
 *.a-ads.com
 *.adspirit.de
 *.archive.org
@@ -36,6 +37,7 @@
 *.ut-capitole.fr
 *.yandex.net
 3sat.de
+5tv5.ru
 9gag-miscmedia.under9.co
 abbotsfordnews.com
 all4.com
@@ -111,6 +113,7 @@ gportal.hu
 hostave3.net
 hr.de
 huffpost.com
+imageban.ru
 images.com
 imvu.com
 indavideo.hu
@@ -137,6 +140,7 @@ kwai.com
 lapresse.ca
 lb.streaming.sk
 lbc.co.uk
+linkr.bio
 links.com
 liverpoolecho.co.uk
 londonlive.co.uk
@@ -182,6 +186,7 @@ rbb.de
 refinery29.com
 rentry.org
 repo.anamy.gay
+ributed.com
 rmbl.ws
 rtl.de
 rtp.pt
@@ -190,6 +195,7 @@ sat1.de
 screenrant.com
 serveert.nl
 sflix.to
+sinclairstoryline.com
 sky.com
 sky.de
 skyarts.tv
@@ -200,6 +206,7 @@ spiegel.de
 sportsnet.ca
 sr.de
 steam-tracker.com
+streamlock.net
 stv.tv
 subtitlecat.com
 sueddeutsche.de
@@ -221,6 +228,7 @@ thestar.com
 thesun.co.uk
 thetelegram.com
 theweathernetwork.com
+threads.com
 tidal.com
 toutiao.com
 tsn.ca

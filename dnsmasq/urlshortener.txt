@@ -12,10 +12,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 13:31 UTC
-# Version: 2025.1215.1331.02
+# Last modified: 15 Dec 2025 21:32 UTC
+# Version: 2025.1215.2132.01
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 9521
+# Number of entries: 9519
 #
 local=/0.gp/
 local=/00m.in/
@@ -2374,7 +2374,6 @@ local=/ebarata.com/
 local=/ebay.to/
 local=/ebbco.ir/
 local=/ebbkr.com/
-local=/ebe.cool/
 local=/ebvv.com/
 local=/eby.onl/
 local=/s.ecchorights.com/
@@ -2613,7 +2612,6 @@ local=/fce.gg/
 local=/fck.lt/
 local=/lnk.fd-serv.com/
 local=/fe.games/
-local=/fedbs.pro/
 local=/fee.vn/
 local=/link.feeturre.com/
 local=/feji.io/

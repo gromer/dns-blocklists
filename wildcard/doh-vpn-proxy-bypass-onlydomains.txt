@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 18:43 UTC
-# Version: 2025.1215.1843.02
+# Last modified: 15 Dec 2025 22:46 UTC
+# Version: 2025.1215.2246.32
 # Syntax: Domains (without subdomains)
-# Number of entries: 6286
+# Number of entries: 6283
 #
 ss.0001.xyz
 003153.xyz
@@ -1902,7 +1902,6 @@ ebumna.net
 echolink.org
 echous.info
 ecoweb-network.com
-ecxs.asia
 dns.edc-pws.com
 dns.eddi.net
 doh.eddi.net
@@ -2007,7 +2006,6 @@ dns.lvqing.eu.org
 dns.mayx.eu.org
 dns.melashri.eu.org
 arashi.net.eu.org
-adg.niub.eu.org
 v3.passby.eu.org
 kr.pigs.eu.org
 r1bnc.eu.org
@@ -2090,7 +2088,6 @@ fastusaproxy.com
 fastvpn.com
 fastvpn.im
 fastvpn.me
-clevercoding.fatibara.com
 adguard.fatu.systems
 favoriteshoes.us
 adguardhome.favrep.ovh

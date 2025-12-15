@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 17:29 UTC
-# Version: 2025.1215.1729.55
+# Last modified: 15 Dec 2025 21:30 UTC
+# Version: 2025.1215.2130.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14231
+# Number of entries: 14222
 #
 local=/01broker.com/
 local=/01crypto.com/
@@ -3499,6 +3499,7 @@ local=/e-foldimate.com/
 local=/e-rechberger.at/
 local=/e-rollzock.com/
 local=/e-scooter.de/
+local=/e-sec-crypto.io/
 local=/e-trekkingrader.com/
 local=/e-vignette.cz/
 local=/ea-heizoel.de/
@@ -3608,7 +3609,6 @@ local=/edpills.de/
 local=/edpilulanetwork.com/
 local=/edrxmeds.com/
 local=/ee-fahrrad-handel.de/
-local=/eesasinternationalbv.com/
 local=/eew-karriere.de/
 local=/effiziente-taubenabwehr.at/
 local=/egapark-erfurt.com/
@@ -3637,7 +3637,6 @@ local=/eisangelntackle.com/
 local=/eiselefahrrad.de/
 local=/eisenbahnzubehorde.com/
 local=/eisenwarensale-shop.com/
-local=/eithermart.top/
 local=/ejdigitalvendas.com/
 local=/ekehau.com/
 local=/ekmshp.com/
@@ -3778,7 +3777,6 @@ local=/emaschmuck.com/
 local=/emba24.de/
 local=/embertime.com/
 local=/embrellar.de/
-local=/emc-containerhandel.com/
 local=/emeingarten24.com/
 local=/emeingarten24h.com/
 local=/emerallda.com/
@@ -3914,7 +3912,6 @@ local=/escortevenly.com/
 local=/esell55.shop/
 local=/eshop-univers.com/
 local=/eshop-univers.de/
-local=/eshopsmartonline.com/
 local=/esnsupply.shop/
 local=/esotecs.com/
 local=/espacedblc.com/
@@ -3994,7 +3991,6 @@ local=/eumedz.com/
 local=/euortovox.shop/
 local=/eupills.com/
 local=/euprofits.com/
-local=/euregiobiomasse.com/
 local=/eurenzo.com/
 local=/eurl-container.com/
 local=/eurnics.com/
@@ -4079,7 +4075,6 @@ local=/exango.org/
 local=/exceptionalg.com/
 local=/exchangeo.fr/
 local=/excitingmarkets.com/
-local=/exclusejacket.com/
 local=/exclusivekicks.shop/
 local=/exclusiveskis.com/
 local=/exclusivewears.com/
@@ -4131,7 +4126,6 @@ local=/fabricatem.com/
 local=/fabrika-musik.de/
 local=/fabtechfire.com/
 local=/fabulaberlin.com/
-local=/facecomo.com/
 local=/facepets.es/
 local=/factearn.com/
 local=/factory-glasses.com/
@@ -4209,11 +4203,9 @@ local=/falkeco.de/
 local=/falken-stein.de/
 local=/falkring-invest.com/
 local=/fallesson.com/
-local=/fallopia-garten.de/
 local=/faltengarten.com/
 local=/falzoro.de/
 local=/famgeschenk.de/
-local=/famgmbh-24.de/
 local=/famigo24.de/
 local=/familiarm.net/
 local=/familiarn.com/
@@ -4256,7 +4248,6 @@ local=/farmakeioellinika24.com/
 local=/farmakeiogr.com/
 local=/farmapache.com/
 local=/farmspain.com/
-local=/farnberg.shop/
 local=/fashican.com/
 local=/fashioli.com/
 local=/fashion-ivora.com/

@@ -6,10 +6,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 15 Dec 2025 18:35 UTC
-! Version: 2025.1215.1835.46
+! Last modified: 15 Dec 2025 22:38 UTC
+! Version: 2025.1215.2238.44
 ! Syntax: AdBlock
-! Number of entries: 97125
+! Number of entries: 97098
 !
 ||0-casino.info^
 ||000-online-casino.com^
@@ -38810,7 +38810,6 @@
 ||echeck-casinos.net^
 ||echocasinohub.com^
 ||echoify.com^
-||echolou.org^
 ||echomailbetsmy.pro^
 ||echoslots.com^
 ||echoslots.io^
@@ -38996,7 +38995,6 @@
 ||eebetcasino.com^
 ||eeebet.com^
 ||eeeeeg.com^
-||eeftanzania.org^
 ||eejlcasino.com^
 ||eejlonlinecasino.com^
 ||eestiloto.ee^
@@ -39008,9 +39006,7 @@
 ||efesbet-casino.com^
 ||efesbet-casinogiris.com^
 ||efesbetcasino-girisi.com^
-||efesbetcasino602.com^
 ||efesbetcasino603.com^
-||efesbetcasino604.com^
 ||efesbetcasino605.com^
 ||efesbetcasino606.com^
 ||efesbetcasino607.com^
@@ -39542,7 +39538,6 @@
 ||electropolis.es^
 ||eleetlimo.com^
 ||elegantspins.com^
-||elemen.site^
 ||elements-casino.com^
 ||elephantsalonandspa.com^
 ||elevate-poker.com^
@@ -39638,7 +39633,6 @@
 ||elsalvadorbets.com^
 ||elslots.com^
 ||elslotsempiere.live^
-||eltapatiojunctioncity.com^
 ||eltarapaca.com^
 ||eltcasino365.com^
 ||eltejoncasinoshuttle.com^
@@ -39679,7 +39673,6 @@
 ||emeraldpeakcasino.com^
 ||emergingcast.com^
 ||emilysplayground.com^
-||eminentcomponentsoftware.sbs^
 ||emirates.casino^
 ||emiratescasino.com^
 ||emirbet.com^
@@ -39717,7 +39710,6 @@
 ||emu-casino-au.net^
 ||emu-casino-nz.com^
 ||emucasino.com^
-||emucasino.site^
 ||emucasino-au.net^
 ||emucasino-ca.com^
 ||emucasinoq.com^
@@ -39739,7 +39731,6 @@
 ||enakcuantoprtp.xyz^
 ||enbetsikayet.com^
 ||enbi.info^
-||encinitascurrent.com^
 ||encrocasino.com^
 ||endorsebule.xyz^
 ||enebet.com^
@@ -39840,7 +39831,6 @@
 ||enloscasinos.com^
 ||enobets.com^
 ||enolascottage.com^
-||enomo.casino^
 ||enparacasino.link^
 ||enparacasinobonus.com^
 ||enracha.es^
@@ -39925,7 +39915,6 @@
 ||eropakita.xyz^
 ||erosetcompagnie.com^
 ||eroticauthorsguild.org^
-||erox-product.com^
 ||errante.net^
 ||es-casinority.com^
 ||es-instantcasino.com^
@@ -39937,7 +39926,6 @@
 ||esaofficial.com^
 ||esascasinogiris.net^
 ||esascasinogiris.org^
-||esb388.com^
 ||esballphcasino.com^
 ||esbestcasino.top^
 ||esbonanza.xyz^
@@ -40046,7 +40034,6 @@
 ||eurobet.com^
 ||eurobet.it^
 ||eurobet-casino-it.org^
-||eurobetcasino.vip^
 ||eurobetcasinoitalia.com^
 ||eurobets.fr^
 ||eurobets.tips^
@@ -40067,7 +40054,6 @@
 ||eurocasino777.vip^
 ||eurocasino88.com^
 ||eurocasinobet.com^
-||eurocasinokayit.com^
 ||eurocasinos777.com^
 ||eurocasinosites.com^
 ||eurocasinosk.com^
@@ -40263,7 +40249,6 @@
 ||exofficio.com^
 ||exonbetsonadres.site^
 ||exoticmassageguide.com^
-||exoticpschedelichub.com^
 ||expekt.com^
 ||expekt.se^
 ||expekt-ca.casino^
@@ -40340,10 +40325,7 @@
 ||ezcash140.casino^
 ||ezcash141.casino^
 ||ezcash142.casino^
-||ezcash149.casino^
 ||ezcash152.casino^
-||ezcash281.casino^
-||ezcash309.casino^
 ||ezcash55.casino^
 ||ezcash62casino.space^
 ||ezcash666.casino^
@@ -40370,7 +40352,6 @@
 ||ezjilicasinoregister.com^
 ||ezjililivecasino.com^
 ||ezjilionlineslots.com^
-||ezprice.cc^
 ||ezramaas.com^
 ||ezsgo.com^
 ||ezslot.bet^
@@ -40391,7 +40372,6 @@
 ||f1-casino-4amp.ru^
 ||f1-casino-5amp.ru^
 ||f1-casino-au.com^
-||f1-casino-nz.online^
 ||f1-casinos1.com^
 ||f12.bet^
 ||f12bet-cassino.click^
@@ -40455,7 +40435,6 @@
 ||f8bet.games^
 ||f8bet.limo^
 ||f8bet02.online^
-||f8bet1.blog^
 ||f8beta2.com^
 ||f8betht.baby^
 ||f8betv2.win^
@@ -40511,7 +40490,6 @@
 ||fair-go-australia-casino.com^
 ||fair-go-casino.co^
 ||fair-go-casino.org^
-||fair-go-casino.site^
 ||fair-go-casino-australian.com^
 ||fair-go-casino-official.com^
 ||fair-go-casino-online.com^
@@ -40657,9 +40635,6 @@
 ||fanday.net^
 ||fandomwank.com^
 ||fanduel.com^
-||fanduelcasino.uk^
-||fanduelcasino.us^
-||fanduelcasinocanada.org^
 ||fanduelcasinox.com^
 ||fanfight.com^
 ||fangz.online^
@@ -40925,7 +40900,6 @@
 ||feelingbet.fr^
 ||feelingbet-casino-fr.com^
 ||feichijiasuqi.org^
-||feigencontemporary.com^
 ||felicebet.com^
 ||feliznatal777slots.com^
 ||feltet.dk^
@@ -40987,7 +40961,6 @@
 ||ffbet99.com^
 ||fffpoker.com^
 ||fffsvip.com^
-||ffpml.com^
 ||ffwin1.bet^
 ||ffwinbets.com^
 ||fg6casino.com^

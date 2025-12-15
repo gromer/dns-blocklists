@@ -12,8 +12,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ! Expires: 1 day
-! Last modified: 15 Dec 2025 13:31 UTC
-! Version: 2025.1215.1331.02
+! Last modified: 15 Dec 2025 21:32 UTC
+! Version: 2025.1215.2132.01
 ! Syntax: AdBlock
 !
 @@||0.gp^
@@ -2308,7 +2308,6 @@
 @@||ebay.to^
 @@||ebbco.ir^
 @@||ebbkr.com^
-@@||ebe.cool^
 @@||ebvv.com^
 @@||eby.onl^
 @@||s.ecchorights.com^
@@ -2544,7 +2543,6 @@
 @@||fck.lt^
 @@||lnk.fd-serv.com^
 @@||fe.games^
-@@||fedbs.pro^
 @@||fee.vn^
 @@||link.feeturre.com^
 @@||feji.io^

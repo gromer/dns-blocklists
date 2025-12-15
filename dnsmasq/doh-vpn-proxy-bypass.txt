@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 18:43 UTC
-# Version: 2025.1215.1843.02
+# Last modified: 15 Dec 2025 22:46 UTC
+# Version: 2025.1215.2246.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 6286
+# Number of entries: 6283
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1902,7 +1902,6 @@ local=/ebumna.net/
 local=/echolink.org/
 local=/echous.info/
 local=/ecoweb-network.com/
-local=/ecxs.asia/
 local=/dns.edc-pws.com/
 local=/dns.eddi.net/
 local=/doh.eddi.net/
@@ -2007,7 +2006,6 @@ local=/dns.lvqing.eu.org/
 local=/dns.mayx.eu.org/
 local=/dns.melashri.eu.org/
 local=/arashi.net.eu.org/
-local=/adg.niub.eu.org/
 local=/v3.passby.eu.org/
 local=/kr.pigs.eu.org/
 local=/r1bnc.eu.org/
@@ -2090,7 +2088,6 @@ local=/fastusaproxy.com/
 local=/fastvpn.com/
 local=/fastvpn.im/
 local=/fastvpn.me/
-local=/clevercoding.fatibara.com/
 local=/adguard.fatu.systems/
 local=/favoriteshoes.us/
 local=/adguardhome.favrep.ovh/

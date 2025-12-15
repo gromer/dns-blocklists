@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 18:42 UTC
-# Version: 2025.1215.1842.24
+# Last modified: 15 Dec 2025 22:45 UTC
+# Version: 2025.1215.2245.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 3362
+# Number of entries: 3361
 #
 local=/ss.0001.xyz/
 local=/003153.xyz/
@@ -1257,7 +1257,6 @@ local=/dns.lvqing.eu.org/
 local=/dns.mayx.eu.org/
 local=/dns.melashri.eu.org/
 local=/arashi.net.eu.org/
-local=/adg.niub.eu.org/
 local=/v3.passby.eu.org/
 local=/kr.pigs.eu.org/
 local=/r1bnc.eu.org/

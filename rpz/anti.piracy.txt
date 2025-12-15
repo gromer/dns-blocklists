@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765823820 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765838400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Dec 2025 18:37 UTC
-; Version: 2025.1215.1837.18
+; Last modified: 15 Dec 2025 22:40 UTC
+; Version: 2025.1215.2240.29
 ; Syntax: RPZ
-; Number of entries: 23128
+; Number of entries: 23126
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1344,8 +1344,6 @@ ebook-land.cc CNAME .
 *.ebook-land.cc CNAME .
 emp3juices.cc CNAME .
 *.emp3juices.cc CNAME .
-eurostreaming.cc CNAME .
-*.eurostreaming.cc CNAME .
 extratorrent.cc CNAME .
 *.extratorrent.cc CNAME .
 fastflix.cc CNAME .
@@ -14272,6 +14270,8 @@ streamingsenzalimiti.net CNAME .
 *.streamingsenzalimiti.net CNAME .
 streamkiste.net CNAME .
 *.streamkiste.net CNAME .
+streamlock.net CNAME .
+*.streamlock.net CNAME .
 streamm4u.net CNAME .
 *.streamm4u.net CNAME .
 streamonsport.net CNAME .
@@ -18240,6 +18240,8 @@ warezanet.3dn.ru CNAME .
 *.5mod.ru CNAME .
 5tigorsk.ru CNAME .
 *.5tigorsk.ru CNAME .
+5tv5.ru CNAME .
+*.5tv5.ru CNAME .
 6ahddutb1ucc3cp.ru CNAME .
 *.6ahddutb1ucc3cp.ru CNAME .
 77help.ru CNAME .
@@ -19172,8 +19174,6 @@ elamigos.site CNAME .
 *.elamigos.site CNAME .
 embedcanais.site CNAME .
 *.embedcanais.site CNAME .
-europixhd.site CNAME .
-*.europixhd.site CNAME .
 eurostreaming.site CNAME .
 *.eurostreaming.site CNAME .
 filmguro.site CNAME .
@@ -20892,8 +20892,6 @@ altadefinizione.tours CNAME .
 *.altadefinizione.tours CNAME .
 cineblog01.town CNAME .
 *.cineblog01.town CNAME .
-eurostreaming.town CNAME .
-*.eurostreaming.town CNAME .
 filmapik.town CNAME .
 *.filmapik.town CNAME .
 flemmix.town CNAME .

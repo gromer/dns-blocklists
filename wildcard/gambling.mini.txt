@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 18:36 UTC
-# Version: 2025.1215.1836.35
+# Last modified: 15 Dec 2025 22:39 UTC
+# Version: 2025.1215.2239.44
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 47559
+# Number of entries: 47544
 #
 *.0-casino.info
 *.000-online-casino.com
@@ -19289,7 +19289,6 @@
 *.eebetcasino.com
 *.eeebet.com
 *.eeeeeg.com
-*.eeftanzania.org
 *.eejlcasino.com
 *.eestiloto.ee
 *.eezzee.io
@@ -19633,7 +19632,6 @@
 *.electricvaultcasinoq.com
 *.electropolis.es
 *.elegantspins.com
-*.elemen.site
 *.elephantsalonandspa.com
 *.elevate-poker.com
 *.elfarodelorca.com
@@ -19683,7 +19681,6 @@
 *.elroyalecasinoq.com
 *.elsalvadorbets.com
 *.elslots.com
-*.eltapatiojunctioncity.com
 *.eltarapaca.com
 *.eltcasino365.com
 *.elterminalito.com
@@ -19729,7 +19726,6 @@
 *.empirepoker.com
 *.emu-casino-nz.com
 *.emucasino.com
-*.emucasino.site
 *.emucasino-ca.com
 *.emwilsonmusic.com
 *.en-hardrock-casino.com
@@ -19744,7 +19740,6 @@
 *.enakcuanpolartp.xyz
 *.enakcuantoprtp.xyz
 *.enbi.info
-*.encinitascurrent.com
 *.enebet.com
 *.charity.energy.partners
 *.energy-casino.cz
@@ -19855,13 +19850,11 @@
 *.eropajaya.xyz
 *.eropakita.xyz
 *.erosetcompagnie.com
-*.erox-product.com
 *.errante.net
 *.es-casinority.com
 *.es-needforslots.com
 *.esa-summit.com
 *.esascasinogiris.org
-*.esb388.com
 *.esballphcasino.com
 *.esc-casino-prt.com
 *.escapesalonandspaparis.com
@@ -19943,7 +19936,6 @@
 *.euro777beer.com
 *.eurobet.com
 *.eurobet.it
-*.eurobetcasino.vip
 *.eurobets.fr
 *.eurobets.tips
 *.eurobetscasino.com
@@ -19957,7 +19949,6 @@
 *.eurocasino-live.com
 *.eurocasino-nz.com
 *.eurocasinobet.com
-*.eurocasinokayit.com
 *.eurocasinosites.com
 *.eurocasinosk.com
 *.eurocasinosuomi.com
@@ -20092,7 +20083,6 @@
 *.exmo.money
 *.exoangin.com
 *.exofficio.com
-*.exoticpschedelichub.com
 *.expekt.com
 *.expekt.se
 *.expektcasino-fi.com
@@ -20132,7 +20122,6 @@
 *.ezbet99.net
 *.ezcash-casino11.com
 *.ezcash152.casino
-*.ezcash281.casino
 *.ezcash67casino.space
 *.ezcashcasino.ru
 *.ezcasino.bet
@@ -20142,7 +20131,6 @@
 *.ezcasino26.online
 *.ezebets.site
 *.ezeewalletcasino.com
-*.ezprice.cc
 *.ezsgo.com
 *.ezslot.bet
 *.ezvetmobileservices.com
@@ -20190,7 +20178,6 @@
 *.f8bet.games
 *.f8bet.limo
 *.f8bet02.online
-*.f8bet1.blog
 *.f8beta2.com
 *.f8betht.baby
 *.f9clubslots.com
@@ -20462,7 +20449,6 @@
 *.feedpoker.xyz
 *.feelingbet.fr
 *.feichijiasuqi.org
-*.feigencontemporary.com
 *.feliznatal777slots.com
 *.feltet.dk
 *.fendi88.bet
@@ -20500,7 +20486,6 @@
 *.ffbet99.com
 *.fffpoker.com
 *.fffsvip.com
-*.ffpml.com
 *.ffwinbets.com
 *.fgfox.com
 *.fgfox.net

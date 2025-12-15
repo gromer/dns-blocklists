@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 18:42 UTC
-# Version: 2025.1215.1842.24
+# Last modified: 15 Dec 2025 22:45 UTC
+# Version: 2025.1215.2245.52
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3362
+# Number of entries: 3361
 #
 *.ss.0001.xyz
 *.003153.xyz
@@ -1257,7 +1257,6 @@
 *.dns.mayx.eu.org
 *.dns.melashri.eu.org
 *.arashi.net.eu.org
-*.adg.niub.eu.org
 *.v3.passby.eu.org
 *.kr.pigs.eu.org
 *.r1bnc.eu.org

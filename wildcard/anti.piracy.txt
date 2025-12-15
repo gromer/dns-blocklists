@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 18:37 UTC
-# Version: 2025.1215.1837.18
+# Last modified: 15 Dec 2025 22:40 UTC
+# Version: 2025.1215.2240.29
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 11564
+# Number of entries: 11563
 #
 *.003396815.xyz
 *.0123456789nonexistent.com
@@ -333,6 +333,7 @@
 *.5play.app
 *.5play.org
 *.5tigorsk.ru
+*.5tv5.ru
 *.60-fps.org
 *.61626c.net
 *.64dd.org
@@ -3159,7 +3160,6 @@
 *.euroddl.com
 *.euromovies.me
 *.europixhd.pro
-*.europixhd.site
 *.europixhd.top
 *.eurostreaming.actor
 *.eurostreaming.app
@@ -3175,7 +3175,6 @@
 *.eurostreaming.biz
 *.eurostreaming.boo
 *.eurostreaming.cash
-*.eurostreaming.cc
 *.eurostreaming.chat
 *.eurostreaming.click
 *.eurostreaming.cloud
@@ -3231,7 +3230,6 @@
 *.eurostreaming.tel
 *.eurostreaming.today
 *.eurostreaming.top
-*.eurostreaming.town
 *.eurostreaming.tv
 *.eurostreaming.us
 *.eurostreaming.vg
@@ -9087,6 +9085,7 @@
 *.streamkiste.taxi
 *.streamkiste.tv
 *.streamlive.to
+*.streamlock.net
 *.streamlord.com
 *.streamm4u.com
 *.streamm4u.net

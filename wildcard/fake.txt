@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 17:29 UTC
-# Version: 2025.1215.1729.55
+# Last modified: 15 Dec 2025 21:30 UTC
+# Version: 2025.1215.2130.08
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 14231
+# Number of entries: 14222
 #
 *.01broker.com
 *.01crypto.com
@@ -3499,6 +3499,7 @@
 *.e-rechberger.at
 *.e-rollzock.com
 *.e-scooter.de
+*.e-sec-crypto.io
 *.e-trekkingrader.com
 *.e-vignette.cz
 *.ea-heizoel.de
@@ -3608,7 +3609,6 @@
 *.edpilulanetwork.com
 *.edrxmeds.com
 *.ee-fahrrad-handel.de
-*.eesasinternationalbv.com
 *.eew-karriere.de
 *.effiziente-taubenabwehr.at
 *.egapark-erfurt.com
@@ -3637,7 +3637,6 @@
 *.eiselefahrrad.de
 *.eisenbahnzubehorde.com
 *.eisenwarensale-shop.com
-*.eithermart.top
 *.ejdigitalvendas.com
 *.ekehau.com
 *.ekmshp.com
@@ -3778,7 +3777,6 @@
 *.emba24.de
 *.embertime.com
 *.embrellar.de
-*.emc-containerhandel.com
 *.emeingarten24.com
 *.emeingarten24h.com
 *.emerallda.com
@@ -3914,7 +3912,6 @@
 *.esell55.shop
 *.eshop-univers.com
 *.eshop-univers.de
-*.eshopsmartonline.com
 *.esnsupply.shop
 *.esotecs.com
 *.espacedblc.com
@@ -3994,7 +3991,6 @@
 *.euortovox.shop
 *.eupills.com
 *.euprofits.com
-*.euregiobiomasse.com
 *.eurenzo.com
 *.eurl-container.com
 *.eurnics.com
@@ -4079,7 +4075,6 @@
 *.exceptionalg.com
 *.exchangeo.fr
 *.excitingmarkets.com
-*.exclusejacket.com
 *.exclusivekicks.shop
 *.exclusiveskis.com
 *.exclusivewears.com
@@ -4131,7 +4126,6 @@
 *.fabrika-musik.de
 *.fabtechfire.com
 *.fabulaberlin.com
-*.facecomo.com
 *.facepets.es
 *.factearn.com
 *.factory-glasses.com
@@ -4209,11 +4203,9 @@
 *.falken-stein.de
 *.falkring-invest.com
 *.fallesson.com
-*.fallopia-garten.de
 *.faltengarten.com
 *.falzoro.de
 *.famgeschenk.de
-*.famgmbh-24.de
 *.famigo24.de
 *.familiarm.net
 *.familiarn.com
@@ -4256,7 +4248,6 @@
 *.farmakeiogr.com
 *.farmapache.com
 *.farmspain.com
-*.farnberg.shop
 *.fashican.com
 *.fashioli.com
 *.fashion-ivora.com

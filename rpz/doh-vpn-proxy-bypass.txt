@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1765824180 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1765838760 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -10,10 +10,10 @@ $TTL 300
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 ; Expires: 1 day
-; Last modified: 15 Dec 2025 18:43 UTC
-; Version: 2025.1215.1843.02
+; Last modified: 15 Dec 2025 22:46 UTC
+; Version: 2025.1215.2246.32
 ; Syntax: RPZ
-; Number of entries: 12572
+; Number of entries: 12566
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -169,8 +169,6 @@ dns1.sarak.as CNAME .
 *.dns1.sarak.as CNAME .
 dns2.sarak.as CNAME .
 *.dns2.sarak.as CNAME .
-ecxs.asia CNAME .
-*.ecxs.asia CNAME .
 freeproxy.asia CNAME .
 *.freeproxy.asia CNAME .
 goproxy.asia CNAME .
@@ -2085,8 +2083,6 @@ fastusaproxy.com CNAME .
 *.fastusaproxy.com CNAME .
 fastvpn.com CNAME .
 *.fastvpn.com CNAME .
-clevercoding.fatibara.com CNAME .
-*.clevercoding.fatibara.com CNAME .
 home.fendya.com CNAME .
 *.home.fendya.com CNAME .
 fiberprox.com CNAME .
@@ -9595,8 +9591,6 @@ dns.melashri.eu.org CNAME .
 *.dns.melashri.eu.org CNAME .
 arashi.net.eu.org CNAME .
 *.arashi.net.eu.org CNAME .
-adg.niub.eu.org CNAME .
-*.adg.niub.eu.org CNAME .
 v3.passby.eu.org CNAME .
 *.v3.passby.eu.org CNAME .
 kr.pigs.eu.org CNAME .

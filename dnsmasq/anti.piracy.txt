@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Dec 2025 18:37 UTC
-# Version: 2025.1215.1837.18
+# Last modified: 15 Dec 2025 22:40 UTC
+# Version: 2025.1215.2240.29
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 11564
+# Number of entries: 11563
 #
 local=/003396815.xyz/
 local=/0123456789nonexistent.com/
@@ -333,6 +333,7 @@ local=/5moviesfree.net/
 local=/5play.app/
 local=/5play.org/
 local=/5tigorsk.ru/
+local=/5tv5.ru/
 local=/60-fps.org/
 local=/61626c.net/
 local=/64dd.org/
@@ -3159,7 +3160,6 @@ local=/euro2024direct.ru/
 local=/euroddl.com/
 local=/euromovies.me/
 local=/europixhd.pro/
-local=/europixhd.site/
 local=/europixhd.top/
 local=/eurostreaming.actor/
 local=/eurostreaming.app/
@@ -3175,7 +3175,6 @@ local=/eurostreaming.bio/
 local=/eurostreaming.biz/
 local=/eurostreaming.boo/
 local=/eurostreaming.cash/
-local=/eurostreaming.cc/
 local=/eurostreaming.chat/
 local=/eurostreaming.click/
 local=/eurostreaming.cloud/
@@ -3231,7 +3230,6 @@ local=/eurostreaming.taxi/
 local=/eurostreaming.tel/
 local=/eurostreaming.today/
 local=/eurostreaming.top/
-local=/eurostreaming.town/
 local=/eurostreaming.tv/
 local=/eurostreaming.us/
 local=/eurostreaming.vg/
@@ -9087,6 +9085,7 @@ local=/streamkiste.space/
 local=/streamkiste.taxi/
 local=/streamkiste.tv/
 local=/streamlive.to/
+local=/streamlock.net/
 local=/streamlord.com/
 local=/streamm4u.com/
 local=/streamm4u.net/
