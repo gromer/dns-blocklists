@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 30 Sep 2026 07:36 UTC
-# Version: 2026.0930.0736.36
+# Last modified: 30 Sep 2026 14:13 UTC
+# Version: 2026.0930.1413.57
 # Syntax: Domains (without subdomains)
-# Number of entries: 50731
+# Number of entries: 50729
 #
 fd01ce9a02.0012e30263.com
 0db65504c2.012dadaa06.com
@@ -343,9 +343,6 @@ sc.banqueoutkill.com
 darian.bantengan.xyz
 uc.barbelfaldfee.com
 do.barmfellists.com
-chiyouranai.base.shop
-tokujiro.base.shop
-uranai1111.base.shop
 ah.basothomug.com
 bv.basquedbeloam.com
 ck.bastardzingaro.com
@@ -12435,6 +12432,7 @@ bartonpriority.com
 bartramagynous.com
 barytemarkup.com
 barytethynnid.com
+base.shop
 baseballletters.com
 basednewsarticle.com
 basejudgementquizmaster.com
@@ -16442,6 +16440,7 @@ commentaryinefficient.com
 commentreedsawhile.com
 commerce.ua
 commercialcapricehey.com
+commercialhalftime.com
 commercialmortgages.london
 commercialpharmacy.com
 commercialregretful.com
@@ -27734,6 +27733,7 @@ jadaichuwhegral.net
 jadcenter.com
 jaded-voice.pro
 jadedguidance.pro
+jadedtwist.com
 jadelink-hotel.com
 jadhusapz.com
 jads.cc
@@ -32389,7 +32389,6 @@ moisturekaleidoscopealone.com
 moistword.com
 mojoaffiliates.com
 mojtabanavade.ir
-moksoxos.com
 molassyschout.com
 moleconcern.com
 molimengrocery.top
@@ -50548,7 +50547,6 @@ zoachoar.net
 zoaphogree.net
 zoapsouwhoaw.net
 zoashegloowais.net
-zoawufoy.net
 zoazagaistap.net
 zocouphatsoazo.com
 zodertracker.com

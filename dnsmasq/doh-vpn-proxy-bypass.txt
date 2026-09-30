@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 30 Sep 2026 09:18 UTC
-# Version: 2026.0930.0918.51
+# Last modified: 30 Sep 2026 15:51 UTC
+# Version: 2026.0930.1551.24
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 16261
+# Number of entries: 16262
 #
 local=/ss.0001.xyz/
 local=/ns.00dani.me/
@@ -16023,6 +16023,7 @@ local=/youtu7.shop/
 local=/youtube-proxy.com/
 local=/youtube-unblocker.com/
 local=/youtubefreeproxy.net/
+local=/youtubeunblocked.live/
 local=/youtujc.com/
 local=/youtulink3.top/
 local=/youtunice.com/

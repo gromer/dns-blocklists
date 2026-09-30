@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 30 Sep 2026 07:36 UTC
-# Version: 2026.0930.0736.36
+# Last modified: 30 Sep 2026 14:13 UTC
+# Version: 2026.0930.1413.57
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 50731
+# Number of entries: 50729
 #
 local=/fd01ce9a02.0012e30263.com/
 local=/0db65504c2.012dadaa06.com/
@@ -343,9 +343,6 @@ local=/sc.banqueoutkill.com/
 local=/darian.bantengan.xyz/
 local=/uc.barbelfaldfee.com/
 local=/do.barmfellists.com/
-local=/chiyouranai.base.shop/
-local=/tokujiro.base.shop/
-local=/uranai1111.base.shop/
 local=/ah.basothomug.com/
 local=/bv.basquedbeloam.com/
 local=/ck.bastardzingaro.com/
@@ -12435,6 +12432,7 @@ local=/bartonpriority.com/
 local=/bartramagynous.com/
 local=/barytemarkup.com/
 local=/barytethynnid.com/
+local=/base.shop/
 local=/baseballletters.com/
 local=/basednewsarticle.com/
 local=/basejudgementquizmaster.com/
@@ -16442,6 +16440,7 @@ local=/commentaryinefficient.com/
 local=/commentreedsawhile.com/
 local=/commerce.ua/
 local=/commercialcapricehey.com/
+local=/commercialhalftime.com/
 local=/commercialmortgages.london/
 local=/commercialpharmacy.com/
 local=/commercialregretful.com/
@@ -27734,6 +27733,7 @@ local=/jadaichuwhegral.net/
 local=/jadcenter.com/
 local=/jaded-voice.pro/
 local=/jadedguidance.pro/
+local=/jadedtwist.com/
 local=/jadelink-hotel.com/
 local=/jadhusapz.com/
 local=/jads.cc/
@@ -32389,7 +32389,6 @@ local=/moisturekaleidoscopealone.com/
 local=/moistword.com/
 local=/mojoaffiliates.com/
 local=/mojtabanavade.ir/
-local=/moksoxos.com/
 local=/molassyschout.com/
 local=/moleconcern.com/
 local=/molimengrocery.top/
@@ -50548,7 +50547,6 @@ local=/zoachoar.net/
 local=/zoaphogree.net/
 local=/zoapsouwhoaw.net/
 local=/zoashegloowais.net/
-local=/zoawufoy.net/
 local=/zoazagaistap.net/
 local=/zocouphatsoazo.com/
 local=/zodertracker.com/
